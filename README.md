@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Interviewmate is a private repository. Contact for access related info.
 <!--
 **sahilkhoslaa/sahilkhoslaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
