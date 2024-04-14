@@ -5,7 +5,6 @@ Software Engineer
 -----------------
 
 * 🌍  I'm based in Chandigarh, India
-* ✉️  You can contact me at [khosla419@gmail.com](mailto:khosla419@gmail.com)
 * 🧠  I'm learning Blockchain and Web3.0
 * 🤝  I'm open to collaborating on Smart Contracts, Hyperledger or ethereum
 
